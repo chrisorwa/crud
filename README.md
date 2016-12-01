@@ -17,7 +17,7 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Depends:
-    * bit64
+    - bit64
     * ineq
     * quanteda
     * stringr
