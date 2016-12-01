@@ -17,32 +17,32 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Depends:
-    *bit64
-    *ineq
-    *quanteda
-    *stringr
-    *stringi
-    *lubridate
-    *magrittr
-    *ggplot2
-    *gganimate
-    *foreach
-    *doParallel
-    *scales
-    *viridis
-    *parallel
-    *knitr
-    *data.table
-    *broom
-    *simputation
-    *forcats
-    *gridExtra
-    *HDoutliers 
-    *vcd
-    *vcdExtra 
-    *ranger 
-    *xgboost
-    *Boruta
-    *rpart
-    *rpart.plot
-    *RoxygenNote: 5.0.1
+    * bit64
+    * ineq
+    * quanteda
+    * stringr
+    * stringi
+    * lubridate
+    * magrittr
+    * ggplot2
+    * gganimate
+    * foreach
+    * doParallel
+    * scales
+    * viridis
+    * parallel
+    * knitr
+    * data.table
+    * broom
+    * simputation
+    * forcats
+    * gridExtra
+    * HDoutliers 
+    * vcd
+    * vcdExtra 
+    * ranger 
+    * xgboost
+    * Boruta
+    * rpart
+    * rpart.plot
+    * RoxygenNote: 5.0.1
